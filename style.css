@@ -1,0 +1,69 @@
+img{
+    margin-top:8%;
+    margin-bottom: 8%;
+
+    border-radius:30px;
+}
+body{
+    background-color:lightblue;
+    padding:400px;
+}
+h1{
+    color:blue;
+    font-family: "Bebas Neue";
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+    color:white;
+    border-radius:20px;
+    font-family: "Bebas Neue";
+    height:100px;
+}
+ul,li, ol{
+    text-align: center;
+    font-family: "Franklin Gothic Medium";
+}
+h4{
+    font-family: "Franklin Gothic Medium";
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    width:600px;
+    height: 50px;
+    
+    
+
+}
+.team{
+    background-color: blue;
+    border-radius:10px ;
+    color: aliceblue;
+    width: 750px;
+    text-align: center;
+    margin-left: 70px;
+    
+}
+div{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ol ul  li{
+    text-align: center;
+}
+.back{
+    background-color: aliceblue;
+}
+.table{
+    margin-left: 140px;
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
